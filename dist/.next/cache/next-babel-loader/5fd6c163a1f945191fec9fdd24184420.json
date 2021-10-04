@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { APIRequest } from './api-request';\nexport class PostService extends APIRequest {\n  search(query) {\n    return this.get(this.buildUrl('/posts/search', query));\n  }\n\n  findById(id) {\n    return this.get(`/posts/${id}`);\n  }\n\n}\nexport const postService = new PostService();","map":null,"metadata":{},"sourceType":"module"}

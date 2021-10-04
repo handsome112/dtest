@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { createAsyncAction } from '@lib/redux';\nexport const {\n  getBanners,\n  getBannersSuccess,\n  getBannersFail\n} = createAsyncAction('getBanners', 'GET_BANNERS');","map":null,"metadata":{},"sourceType":"module"}

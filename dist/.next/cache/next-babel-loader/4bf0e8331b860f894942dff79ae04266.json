@@ -1,0 +1,1 @@
+{"ast":null,"code":"","map":{"version":3,"sources":[],"names":[],"mappings":"","sourcesContent":["export interface IPerformerCategogies {\n  _id: string;\n  name: string;\n  slug: string;\n  ordering: number;\n  description: string;\n  createdBy: string;\n  updatedBy: string;\n  createdAt: Date;\n  updatedAt: Date;\n}\n"]},"metadata":{},"sourceType":"script"}

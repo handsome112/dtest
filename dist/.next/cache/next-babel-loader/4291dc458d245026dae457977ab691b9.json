@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const validateMessages = {\n  required: 'This field is required!',\n  types: {\n    email: 'Not a validate email!',\n    number: 'Not a validate number!'\n  },\n  number: {\n    range: 'Must be between min and max'\n  }\n};","map":null,"metadata":{},"sourceType":"module"}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport './default-layout.less';\nimport React from 'react';\nexport default (({\n  children\n}) => __jsx(\"div\", {\n  className: \"container\"\n}, children));","map":null,"metadata":{},"sourceType":"module"}

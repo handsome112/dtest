@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { APIRequest } from './api-request';\nexport class BannerService extends APIRequest {\n  search(query) {\n    return this.get(this.buildUrl('/banners/search', query));\n  }\n\n}\nexport const bannerService = new BannerService();","map":null,"metadata":{},"sourceType":"module"}

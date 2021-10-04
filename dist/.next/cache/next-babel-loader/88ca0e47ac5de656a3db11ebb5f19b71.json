@@ -1,0 +1,1 @@
+{"ast":null,"code":"","map":{"version":3,"sources":[],"names":[],"mappings":"","sourcesContent":["export interface IReduxAction<T> {\n  type: string;\n  payload: T;\n}\n\nexport interface IReducerFieldUpdate<T> {\n  field: string;\n  data: T;\n}\n"]},"metadata":{},"sourceType":"script"}

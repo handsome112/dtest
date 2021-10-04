@@ -1,0 +1,1 @@
+{"ast":null,"code":"import Socket from './Socket';\nimport Event from './Event';\nimport { SocketContext } from './SocketContext';\n\nif (true) {\n  if (window) window.ReactSocketIO = {\n    Socket: Socket,\n    Event: Event,\n    SocketContext: SocketContext\n  };\n}\n\nexport { Socket, Event, SocketContext };","map":null,"metadata":{},"sourceType":"module"}

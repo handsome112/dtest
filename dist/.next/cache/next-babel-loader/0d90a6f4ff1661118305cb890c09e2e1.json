@@ -1,0 +1,1 @@
+{"ast":null,"code":"export {};","map":{"version":3,"sources":[],"names":[],"mappings":"","sourcesContent":["import { IPerformer } from 'src/interfaces';\n\nexport interface IFavourite {\n  _id: string;\n  favoriteId: string;\n  ownerId: string;\n  performer: IPerformer;\n  status: string;\n  createdAt: Date;\n  updatedAt: Date;\n}\n"]},"metadata":{},"sourceType":"module"}

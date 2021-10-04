@@ -1,0 +1,1 @@
+{"ast":null,"code":"export var PRODUCT_TYPE = {\n  PHYSICAL: 'physical',\n  DIGITAL: 'digital'\n};\nexport var PRODUCT_STATUS = {\n  // DRAFT: 'draft',\n  ACTIVE: 'active',\n  INACTIVE: 'inactive'\n};","map":null,"metadata":{},"sourceType":"module"}

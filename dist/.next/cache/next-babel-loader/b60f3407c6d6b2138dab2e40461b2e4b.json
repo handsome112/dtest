@@ -1,0 +1,1 @@
+{"ast":null,"code":"import React from \"react\";\nvar __jsx = React.createElement;\nimport { PageHeader, Divider } from 'antd';\nexport default (({\n  title,\n  extra\n}) => __jsx(React.Fragment, null, __jsx(PageHeader, {\n  title: title,\n  extra: extra\n}), __jsx(Divider, null)));","map":null,"metadata":{},"sourceType":"module"}

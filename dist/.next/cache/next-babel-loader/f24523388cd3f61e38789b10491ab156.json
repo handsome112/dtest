@@ -1,0 +1,1 @@
+{"ast":null,"code":"export var usernamePatternRule = {\n  pattern: new RegExp('^[a-zA-Z0-9]*$'),\n  message: 'Dont allow special chars or space'\n};","map":null,"metadata":{},"sourceType":"module"}

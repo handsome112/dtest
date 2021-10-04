@@ -1,0 +1,1 @@
+{"ast":null,"code":"var store = null;\nexport default {\n  getStore: function getStore() {\n    return store;\n  },\n  setStore: function setStore(s) {\n    store = s;\n  }\n};","map":null,"metadata":{},"sourceType":"module"}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { createAction, createAsyncActions } from '@lib/redux';\nexport const [getPerformerPhotos, getPerformerPhotosSuccess, getPerformerPhotosFail] = createAsyncActions('GET_PERFORMER_PHOTOS');\nexport const gettingPerformerPhotos = createAction('GETTING_PERFORMER_PHOTOS');","map":null,"metadata":{},"sourceType":"module"}

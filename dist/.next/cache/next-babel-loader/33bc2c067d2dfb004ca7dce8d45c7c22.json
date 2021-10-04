@@ -1,0 +1,1 @@
+{"ast":null,"code":"","map":{"version":3,"sources":[],"names":[],"mappings":"","sourcesContent":["export interface ITokenPackage {\n  _id: string;\n  name: string;\n  price: number;\n  tokens: number;\n}\n"]},"metadata":{},"sourceType":"script"}

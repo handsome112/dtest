@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { createAction } from '@lib/redux';\nexport const updateUIValue = createAction('updateUIValue');\nexport const loadUIValue = createAction('loadUIValue');","map":null,"metadata":{},"sourceType":"module"}

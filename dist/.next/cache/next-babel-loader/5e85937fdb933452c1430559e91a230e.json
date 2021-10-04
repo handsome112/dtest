@@ -1,0 +1,1 @@
+{"ast":null,"code":"import nextReduxWrapper from 'next-redux-wrapper';\nimport nextReduxSaga from 'next-redux-saga';\nimport store from './store';\n\nconst withReduxSaga = BaseComponent => nextReduxWrapper(store)(nextReduxSaga(BaseComponent));\n\nexport default withReduxSaga;","map":null,"metadata":{},"sourceType":"module"}
